@@ -1537,11 +1537,11 @@ input[type=text] {
   border: .2px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
-  background-color: rgba(245, 240, 240, 0.911);
+  background-color: rgba(255, 255, 255, 0.911);
   background-image: url('searchicon.png');
   background-position: 10px 10px; 
   background-repeat: no-repeat;
-  padding: 6px 20px 6px 10px;
+  padding: 5px 15px 5px 10px;
   float: right;
   -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
