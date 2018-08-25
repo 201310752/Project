@@ -1531,7 +1531,8 @@ input[type=text]:focus{
 
 /* search form */
 input[type=text] {
-  width: 130px;
+  margin: 5px 80px;
+  width: 220px;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
@@ -1540,11 +1541,11 @@ input[type=text] {
   background-image: url('searchicon.png');
   background-position: 10px 10px; 
   background-repeat: no-repeat;
-  padding: 7px 20px 7px 10px;
+  padding: 6px 20px 6px 10px;
   float: right;
   -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
 }
 input[type=text]:focus {
-  width: 30%;
+  width: 40%;
 }
