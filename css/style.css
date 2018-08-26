@@ -1534,9 +1534,9 @@ input[type=text] {
   margin: 5px 80px;
   width: 220px;
   box-sizing: border-box;
-  border: .2px solid #ccc;
+  border: 2px solid rgb(40, 48, 83);
   border-radius: 4px;
-  font-size: 16px;
+  font-size: 13px;
   background-color: rgba(255, 255, 255, 0.911);
   background-image: url('searchicon.png');
   background-position: 10px 10px; 
@@ -1547,6 +1547,6 @@ input[type=text] {
   transition: width 0.4s ease-in-out;
 }
 input[type=text]:focus {
-  width: 40%;
+  width: 30%;
   background-color: white;
 }
