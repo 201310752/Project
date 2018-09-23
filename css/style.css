@@ -1533,6 +1533,7 @@ input[type=text]{
 }
 /*when the input field get focus, change its width to 35%*/
 input[type=text]:focus{
+  border: 2px solid rgb(59, 175, 48);
   width: 35%;
 }
 /* .form_icon i{
