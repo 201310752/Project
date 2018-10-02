@@ -1,13 +1,13 @@
-const state = {
-    hour: undefined,
-    day: undefined,
-    month: undefined,
-    gender: undefined,
-    age: undefined,
-    vehicle_type: undefined,
-    accident_type: undefined,
-    frameRequest: undefined,
-  }
+// const state = {
+//     hour: undefined,
+//     day: undefined,
+//     month: undefined,
+//     gender: undefined,
+//     age: undefined,
+//     vehicle_type: undefined,
+//     accident_type: undefined,
+//     frameRequest: undefined,
+//   }
   
   const hour_labels = [
     "00:00",

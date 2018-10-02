@@ -103,83 +103,61 @@
   <main id="main">
     <!-- information -->
     <section id="services">
-      <div class="container">
-        <div class="section-header">
-          <h2>Map view of common diseases</h2>
-          <div id="controls">
-            <div class="control-group">
-              <div class="control">
-                <select name="" id="disease-selector" title="disease type">
+      <div id="container">
+        <div id="title">
+          <div class="text">
+            Common diseases map view
+          </div>
+        </div>   
+        <div id="controls">
 
-                </select>
-              </div>
-              <div class="control">
-                <div class="label">Months</div>
-                <input type="range" id="month-selector" min="0" max="11" step="1" title="Adjusts month">
-              </div>
-              <div class="control">
-                <label for="animate" title="Toggles time animation.">Animate</label>
-                <input type="checkbox" id="animator-toggle" title="Toggles time animation." name="animate">
-              </div>
+          <div class="control-group">
+            <div class="control">
+              <select id="vehicle-selector" title="Vehicle type">
+              </select>
             </div>
-            <div class="control-group">
-              <div id="state" title="Date and time of current view">
-                <div id="displayed-hour"></div>
-                <div id="displayed-day"></div>
-                <div id="displayed-month"></div>
-                <div id="displayed-year"></div>
-              </div>
+    
+            <div class="control">
+              <div class="label">hour:</div>
+              <input id="hour-selector" type="range" min="0" max="11" step="1" title="Adjust hour">
+            </div>
+            <div class="control">
+              <div class="label">day:</div>
+              <input id="day-selector" type="range" min="0" max="6" step="1" title="Adjusts weekday">
+            </div>
+            <div class="control">
+              <div class="label">month:</div>
+              <input id="month-selector" type="range" min="0" max="11" step="1" title="Adjusts month">
+            </div>
+            <div class="control">
+              <label for="animate" title="Toggles time animation.">animate</label>
+              <input id="animator-toggle" type="checkbox" title="Toggles time animation." name="animate">
             </div>
           </div>
-          <div id="map">
-            <canvas id="map-canvas" width="600" height="598">
-              <div id="scale-container">
-                <div id="scale" title="Scale of risk in a region">
-                  <div class="low-risk-scale-label">Low</div>
-                  <div class="high-risk-scale-label">High</div>
-                </div>
-                <div>Risk</div>
-              </div>
-            </canvas>
+    
+          <div class="control-group" style="display:none">
+            <div id="state" title="Date and time of current view">
+              <div id="displayed-hour"></div>
+              <div id="displayed-day"></div>
+              <div id="displayed-month"></div>
+              <div id="displayed-year"></div>
+            </div>
+    
+          </div>
+    
+    
+        </div>
+    
+        <div id="map">
+          <canvas id="map-canvas" width="600" height="598"></canvas>
+          <div id="scale-container">
+            <div id="scale" title="Scale of risk in a region">
+              <div class="low-risk-scale-label">low</div>
+              <div class="high-risk-scale-label">high</div>
+            </div>
+            <div>Risk</div>
           </div>
         </div>
-        <!-- <div class="row">
-
-          <div class="col-lg-6">
-            <div class="box wow fadeInLeft">
-              <div class="icon"><i class="fa fa-info"></i></div>
-              <h4 class="title"><a href="#services">Information</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident etiro rabeta lingo.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-6">
-            <div class="box wow fadeInRight">
-              <div class="icon"><i class="fa fa-info"></i></div>
-              <h4 class="title"><a href="#services">Information</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata nodera clas.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-6">
-            <div class="box wow fadeInLeft" data-wow-delay="0.2s">
-              <div class="icon"><i class="fa fa-info"></i></div>
-              <h4 class="title"><a href="#services">Information</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-6">
-            <div class="box wow fadeInRight" data-wow-delay="0.2s">
-              <div class="icon"><i class="fa fa-info"></i></div>
-              <h4 class="title"><a href="#services">Information</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
-            </div>
-          </div>
-
-        </div> -->
-
-      </div>
     </section><!-- #services -->
     <!-- notifiable diseases -->
     <section id="portfolio"  class="section-bg" >
