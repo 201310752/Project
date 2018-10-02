@@ -32,7 +32,7 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto">nFarmers'</a></h1>
+        <h1><a href="#intro" class="scrollto">nFarmers</a></h1>
         
       </div>
       
@@ -105,10 +105,45 @@
     <section id="services">
       <div class="container">
         <div class="section-header">
-          <!-- <h2>Services</h2>
-          <p class="kuna">Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p> -->
+          <h2>Map view of common diseases</h2>
+          <div id="controls">
+            <div class="control-group">
+              <div class="control">
+                <select name="" id="disease-selector" title="disease type">
+
+                </select>
+              </div>
+              <div class="control">
+                <div class="label">Months</div>
+                <input type="range" id="month-selector" min="0" max="11" step="1" title="Adjusts month">
+              </div>
+              <div class="control">
+                <label for="animate" title="Toggles time animation.">Animate</label>
+                <input type="checkbox" id="animator-toggle" title="Toggles time animation." name="animate">
+              </div>
+            </div>
+            <div class="control-group">
+              <div id="state" title="Date and time of current view">
+                <div id="displayed-hour"></div>
+                <div id="displayed-day"></div>
+                <div id="displayed-month"></div>
+                <div id="displayed-year"></div>
+              </div>
+            </div>
+          </div>
+          <div id="map">
+            <canvas id="map-canvas" width="600" height="598">
+              <div id="scale-container">
+                <div id="scale" title="Scale of risk in a region">
+                  <div class="low-risk-scale-label">Low</div>
+                  <div class="high-risk-scale-label">High</div>
+                </div>
+                <div>Risk</div>
+              </div>
+            </canvas>
+          </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
 
           <div class="col-lg-6">
             <div class="box wow fadeInLeft">
@@ -142,7 +177,7 @@
             </div>
           </div>
 
-        </div>
+        </div> -->
 
       </div>
     </section><!-- #services -->
@@ -751,6 +786,27 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+
+
+  <img style="display:none" id="map-background" src="images/map.jpg">
+    <img style="display:none" id="map-caprivi" src="images/caprivi.png">
+    <img style="display:none" id="map-hardap" src="images/hardap.png">
+    <img style="display:none" id="map-kavango" src="images/kavango.png">
+    <img style="display:none" id="map-kunene" src="images/kunene.png">
+    <img style="display:none" id="map-ohangwena" src="images/ohangwena.png">
+    <img style="display:none" id="map-omusati" src="images/omusati.png">
+    <img style="display:none" id="map-oshikoto" src="images/oshikoto.png">
+    <img style="display:none" id="map-erongo" src="images/erongo.png">
+    <img style="display:none" id="map-karas" src="images/karas.png">
+    <img style="display:none" id="map-khomas" src="images/khomas.png">
+    <img style="display:none" id="map-omaheke" src="images/omaheke.png">
+    <img style="display:none" id="map-oshana" src="images/oshana.png">
+    <img style="display:none" id="map-otjozondjupa" src="images/otjozondjupa.png">
+    <img style="display:none" id="map-roads" src="images/roads.png">
+    <img style="display:none" id="map-towns" src="images/towns.png">
+
+    <script src="js/data.js"></script>
+    <script src="js/logic.js"></script>
 
 </body>
 </html>
