@@ -54,14 +54,14 @@ const regions = [
   ];
   
   const accident_types = [
-    "Cyclist", 
-    "Tyre-Burst",
-    "Animal collisions",
-    "Pedestrians",
-    "Roll-overs",
-    "Collisions",
-    "Fixed objects collisions",
-    "Fell/Jumped from moving vehicle",
+    "Infectious bovine rhinotracheitis", //cyclist
+    "Malignant Catarrh", // tyre-burst
+    "Heartwater", // animal collisions
+    "Bovine Virus Diarrhea", // pedestrians
+    "Dermatophilosis", // roll-overs
+    "Sheep Scab", // collisions
+    "Pasteurellosis", // fixed objects collisions
+    "Pulpy Kidney", // fell/jumped from moving vehicle
   ];
   
   const accident_type_by_region = [
@@ -81,15 +81,15 @@ const regions = [
   ];
   
   const vehicle_types = [
-    "Bus", 
-    "Motorcycle", 
-    "Pick-up", 
-    "Sedan", 
-    "SUV", 
-    "Van", 
-    "Truck", 
-    "Unknown", 
-    "Other", 
+    "Foot & Mouth Disease", //bus 
+    "African Horse Sickness", //motorcycle
+    "Rabies", // pick-up
+    "African Swine Fever", // sedan
+    "Rift Valley Fever", //suv
+    "Blue Tongue", // van
+    "Lungsickness", //truck
+    "Lumpy skin disease", // unkown
+    "Newcastle disease", //other
   ];
   
   const vehicle_type_by_region = [
