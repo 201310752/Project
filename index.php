@@ -38,7 +38,7 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">        
           <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="http://localhost/flarum" target="_blank">Community</a></li>
+          <li><a href="http://localhost/flarum" >Community</a></li>
         </ul>
       </nav>
     </div>
@@ -60,7 +60,7 @@
               <div class="carousel-content">
                 <h2>Welcome to nFarmers website</h2>
                 <p style="font-size: 15px">This platform explores the future of Namibian information systems and the role that digital solutions can play in overcoming the isolation of smallholder farmers and speeding up rural development. nFarmers seeks to solve this by providing farmers with up-to-date information about animal diseases </p>
-                <a href="http://localhost/flarum" target="_blank" class="btn-get-started scrollto">Join the forum</a>
+                <a href="http://localhost/flarum" class="btn-get-started scrollto">Join the forum</a>
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@
               <div class="carousel-content">
                 <h2>Taking Success To Scale</h2>
                 <p style="font-size: 15px">By thinking in terms not just of crops or yields or prices, but rather of an integrated information system that links all players in the agricultural economy, nFarmers allow farmers to see agricultural issues in a new light. Enabling those who have something powerful to say and the authority to be heard.</p>
-                <a href="http://localhost/flarum" target="_blank" class="btn-get-started scrollto">Join the forum</a>
+                <a href="http://localhost/flarum" class="btn-get-started scrollto">Join the forum</a>
               </div>
             </div>
           </div>
@@ -80,7 +80,7 @@
               <div class="carousel-content">
                 <h2>Overcoming Isolation </h2>
                 <p style="font-size: 15px">Farming is one of mankind’s oldest endeavors, and digital technology is one of its newest. The contributors to this fascinating volume bring them together, showing just how much good can come from the collaboration. nFarmers aims to provide solutions to key strategic information challenges faced by agricultural stakeholders in Namibia.</p>
-                <a href="http://localhost/flarum" target="_blank" class="btn-get-started scrollto">Join the forum</a>
+                <a href="http://localhost/flarum" class="btn-get-started scrollto">Join the forum</a>
               </div>
             </div>
           </div>
@@ -154,7 +154,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web filter-app filter-card wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
                 <img src="img/portfolio/blue.jpg" class="img-fluid" alt="" style="height: 250px; width: 600px">
@@ -347,7 +347,7 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
@@ -357,7 +357,7 @@
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -461,7 +461,7 @@
                               Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                               Pregnant cows may be vaccinated with Swavet®.
                               A booster vaccination should be given annually. <br>
-                              For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
+                              For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                           </div>
                       </div>
                   </div>
@@ -471,7 +471,7 @@
   
               <!-- Add to Cart -->
               <div class="card-body">
-                  <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
+                  <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
               </div>
               <!-- /.Add to Cart -->
@@ -584,7 +584,7 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
@@ -594,7 +594,7 @@
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -636,7 +636,7 @@
           </div>
           <div class="col-lg-7">
             <h2 class="h2-responsive product-name">
-              <strong>Lumpy skin disease</strong>
+              <strong>Sheep & Goat Pox</strong>
             </h2>
             
             <!--Accordion wrapper-->
@@ -657,7 +657,7 @@
                     <!-- Card body -->
                     <div id="collapseOne3" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
                         <div class="card-body">
-                            Lumpy skin disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
+                            Sheep & Goat Pox disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
                         </div>
                     </div>
                 </div>
@@ -701,13 +701,13 @@
                     <!-- Card body -->
                     <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
                         <div class="card-body">
-                            LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
+                            Alfafer® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
                             <strong>Recommendation for use:</strong><br>
                             If possible all animals should be vaccinated during spring.
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
@@ -717,7 +717,7 @@
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -739,27 +739,17 @@
                 <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <div class="">
-                        <img class="d-block w-100" src="img/blue.jpg" alt="First slide" style="height: 300px;">
+                        <img class="d-block w-100" src="img/ant.jpg" alt="First slide" style="height: 300px;">
                     </div>
                 </div>
                 <!--/.Slides-->
-                <!--Controls-->
-                <a class="carousel-control-prev" href="#carousel-thumb" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#carousel-thumb" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
-                <!--/.Controls-->
-                
+                                
             </div>
             <!--/.Carousel Wrapper-->
           </div>
           <div class="col-lg-7">
             <h2 class="h2-responsive product-name">
-              <strong>Lumpy skin disease</strong>
+              <strong>Rinderpest</strong>
             </h2>
             
             <!--Accordion wrapper-->
@@ -780,7 +770,7 @@
                     <!-- Card body -->
                     <div id="collapseOne4" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
                         <div class="card-body">
-                            Lumpy skin disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
+                            Rinderpest disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
                         </div>
                     </div>
                 </div>
@@ -824,24 +814,23 @@
                     <!-- Card body -->
                     <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
                         <div class="card-body">
-                            LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
+                            Anthravx® - For the prophylactic immunisation of cattle against Rinderpest disease. <br>
                             <strong>Recommendation for use:</strong><br>
                             If possible all animals should be vaccinated during spring.
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -943,18 +932,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum" >discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -1059,7 +1047,7 @@
                     <!-- Card body -->
                     <div id="collapseThreef" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
                         <div class="card-body">
-                        SUPAVAX® can be used for the active immunisation of cattle and sheep against anthrax, botulism and blackleg or FMD. The active component, when injected into a healthy, susceptible animal stimulates the immune response against these diseases. Immunity is established within 3 to 4 weeks after inoculation, and lasts for at least 1 year. <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
+                        SUPAVAX® can be used for the active immunisation of cattle and sheep against anthrax, botulism and blackleg or FMD. The active component, when injected into a healthy, susceptible animal stimulates the immune response against these diseases. Immunity is established within 3 to 4 weeks after inoculation, and lasts for at least 1 year. <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
@@ -1069,7 +1057,7 @@
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -1182,18 +1170,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -1306,18 +1293,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -1430,18 +1416,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
