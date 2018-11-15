@@ -40,15 +40,13 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto">nFarmers</a></h1>
+        <h1><a href="index.php" class="scrollto">nFarmers</a></h1>
         
       </div>
       
       <nav id="nav-menu-container">
         <ul class="nav-menu">        
-          <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
+          <li class="menu-active"><a href="index.php">Home</a></li>
           <li><a href="http://localhost/flarum" target="_blank">Community</a></li>
         </ul>
       </nav>
@@ -139,21 +137,21 @@
             while($results = mysql_fetch_array($raw_results)){
             // $results = mysql_fetch_array($raw_results) puts data from database into array, while it's valid it does the loop
              
-                echo "<p><h3><b>".$results['Region'].', '.$results['Town'].', '.$results['address'].', '.$results['official']."</b></h3></p>";
+                echo "<p><h3><b>".'For extension services in '.$results['Town'].', '.$results['Region'].' region, you can contact '.$results['official'].' at '.$results['tel_no'].'.'."</b></h3></p>";
                 // posts results gotten from database(title and text) you can also show id ($results['id'])
             }
              
         }
         else{ // if there is no matching rows do following
-            echo "No results";
+            echo "<h3><b>".'No results found, try to research by region or town'.'.'."<b></h3>";
         }
          
     }
     else{ // if query length is less than minimum
-        echo "Minimum length is ".$min_length;
+        echo "<h3><b>".'No results found, please use a minimum of 3 characters for searching.'."</b><h3>";
     }
 ?>
-    <p>join the forum<a href="http://localhost/flarum" target="_blank">Community</a></p>
+    <h3><b>Alternatively, can collaborate with your <a href="http://localhost/flarum"><u>fellow farmers</u></a></b></h3>
       </div>
     </section><!-- #portfolio -->
 
