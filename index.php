@@ -34,16 +34,13 @@
 
       <div id="logo" class="pull-left">
         <h1><a href="#intro" class="scrollto">nFarmers</a></h1>
-        
       </div>
-      
       <nav id="nav-menu-container">
         <ul class="nav-menu">        
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="http://localhost/flarum" target="_blank">Community</a></li>
         </ul>
       </nav>
-      
     </div>
       <div class="form_icon">
         <form id="form" action="search.php">
@@ -102,11 +99,9 @@
   <main id="main">
     <section id="portfolio"  class="section-bg" >
       <div class="container">
-
         <header class="section-header">
           <h3 class="section-title">Notifiable diseases</h3>
         </header>
-
         <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
@@ -117,9 +112,7 @@
             </ul>
           </div>
         </div>
-
         <div class="row portfolio-container">
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp box">
             <div class="portfolio-wrap">
               <figure>
@@ -127,13 +120,27 @@
                 <a href="img/portfolio/lump.jpg" data-lightbox="portfolio" data-title="Lumpy skin disease" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
                 <a class="link-details button" title="More Details" data-toggle="modal" data-target="#lump"><i class="ion ion-android-open"></i></a>
               </figure>
-
               <div class="portfolio-info">
-                <h4><a href="#">Lumpy skin disease</a></h4>
+                <h4><a href="">Lumpy skin disease</a></h4>
                 <p>Cattle, goats & sheep</p>
               </div>
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item wow filter-web filter-app filter-card fadeInUp" data-wow-delay="0.1s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/foot.jpg" class="img-fluid" alt="" style="height: 250px; width: 600px">
+                <a href="img/portfolio/foot.jpg" class="link-preview" data-lightbox="portfolio" data-title="Foot and Mouth Disease" title="Preview"><i class="ion ion-eye"></i></a>
+                <a class="link-details button" title="More Details" data-toggle="modal" data-target="#foot"><i class="ion ion-android-open"></i></a>
+              </figure>
+              <div class="portfolio-info">
+                <h4><a href="">Foot and Mouth Disease</a></h4>
+                <p>Cattle, Goat, Sheep</p>
+              </div>
+            </div>
+          </div>
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-card filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
@@ -142,12 +149,11 @@
                 <a data-target="#pox" data-toggle="modal" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
               <div class="portfolio-info">
-                <h4><a href="#">Sheep & Goat Pox</a></h4>
+                <h4><a href="">Sheep & Goat Pox</a></h4>
                 <p>Goat & Sheep</p>
               </div>
             </div>
           </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
@@ -155,14 +161,12 @@
                 <a href="img/portfolio/blue.jpg" class="link-preview" data-lightbox="portfolio" data-title="Bluetongue" title="Preview"><i class="ion ion-eye"></i></a>
                 <a class="link-details button" title="More Details" data-toggle="modal" data-target="#blue"><i class="ion ion-android-open" href="#new" ></i></a>
               </figure>
-
               <div class="portfolio-info">
-                <h4><a href="#">Bluetongue</a></h4>
+                <h4><a href="">Bluetongue</a></h4>
                 <p>Sheep</p>
               </div>
             </div>
           </div>
-          
           <div class="col-lg-4 col-md-6 portfolio-item filter-web filter-app filter-card wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
@@ -170,14 +174,12 @@
                 <a href="img/portfolio/rift.jpg" class="link-preview" data-lightbox="portfolio" data-title="Rift Valley Fever" title="Preview"><i class="ion ion-eye"></i></a>
                 <a class="link-details button" title="More Details" data-toggle="modal" data-target="#fever"><i class="ion ion-android-open"></i></a>
               </figure>
-
               <div class="portfolio-info">
-                <h4><a href="#">Rift Valley Fever</a></h4>
+                <h4><a href="">Rift Valley Fever</a></h4>
                 <p>Cattle, sheep, & goats</p>
               </div>
             </div>
           </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
@@ -185,14 +187,12 @@
                 <a href="img/portfolio/rind.jpg" class="link-preview" data-lightbox="portfolio" data-title="Rinderpest" title="Preview"><i class="ion ion-eye"></i></a>
                 <a class="link-details button" title="More Details" data-toggle="modal" data-target="#rind"><i class="ion ion-android-open"></i></a>
               </figure>
-
               <div class="portfolio-info">
-                <h4><a href="#">Rinderpest</a></h4>
+                <h4><a href="">Rinderpest</a></h4>
                 <p>Cattle and other cloven - hoofed animals</p>
               </div>
             </div>
           </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
@@ -202,23 +202,8 @@
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="#">Bovine magliant catarrh</a></h4>
+                <h4><a href="">Bovine magliant catarrh</a></h4>
                 <p>Cattle, wildebeest (gnu)</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="img/portfolio/swine.jpg" class="img-fluid" alt="" style="height: 250px; width: 600px">
-                <a href="img/portfolio/swine.jpg" class="link-preview" data-lightbox="portfolio" data-title="Swine vesicular disease" title="Preview"><i class="ion ion-eye"></i></a>
-                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="#">Swine vesicular disease</a></h4>
-                <p>Pigs</p>
               </div>
             </div>
           </div>
@@ -237,38 +222,7 @@
               </div>
             </div>
           </div>
-          
-          <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="img/portfolio/hsickness.jpg" class="img-fluid" alt="" style="height: 250px; width: 600px">
-                <a href="img/portfolio/hsickness.jpg" class="link-preview" data-lightbox="portfolio" data-title="African Horse Sickness" title="Preview"><i class="ion ion-eye"></i></a>
-                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-              
 
-              <div class="portfolio-info">
-                <h4><a href="#">African Horse Sickness</a></h4>
-                <p>Horses, donkey</p>
-              </div>
-            </div>
-          </div>
-
-          
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web filter-app filter-card wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="img/portfolio/heartwater.jpg" class="img-fluid" alt="" style="height: 250px; width: 600px">
-                <a href="img/portfolio/heartwater.jpg" class="link-preview" data-lightbox="portfolio" data-title="Heartwater" title="Preview"><i class="ion ion-eye"></i></a>
-                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="#">Heartwater</a></h4>
-                <p>Cattle, goats, sheep</p>
-              </div>
-            </div>
-          </div>
           <div class="col-lg-4 col-md-6 portfolio-item wow filter-app fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
@@ -276,8 +230,6 @@
                 <a href="img/portfolio/mcf-1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Malignant Catarrhal Fever" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
-              
-
               <div class="portfolio-info">
                 <h4><a href="#">Malignant Catarrhal Fever</a></h4>
                 <p>Cattle, Goat, Sheep</p>
@@ -292,7 +244,7 @@
 
   </main>
 
-<!-- Modal: modalQuickView -->
+<!-- Modal: the modal contains the description, symtoms and medication of a specific disease -->
 <div class="modal fade" id="lump" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
@@ -395,18 +347,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -428,27 +379,18 @@
                   <!--Slides-->
                   <div class="carousel-inner" role="listbox">
                       <div class="">
-                          <img class="d-block w-100" src="img/blue.jpg" alt="First slide" style="height: 300px;">
+                          <img class="d-block w-100" src="img/swa.jpg" alt="First slide" style="height: 300px;">
                       </div>
                       </div>
                   <!--/.Slides-->
                   <!--Controls-->
-                  <a class="carousel-control-prev" href="#carousel-thumb" role="button" data-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="carousel-control-next" href="#carousel-thumb" role="button" data-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="sr-only">Next</span>
-                  </a>
-                  <!--/.Controls-->
-                  
+                                    
               </div>
               <!--/.Carousel Wrapper-->
             </div>
             <div class="col-lg-7">
               <h2 class="h2-responsive product-name">
-                <strong>Lumpy skin disease</strong>
+                <strong>Bluetongue</strong>
               </h2>
               
               <!--Accordion wrapper-->
@@ -458,7 +400,7 @@
                   <div class="card">
   
                       <!-- Card header -->
-                      <div class="card-header" role="tab" id="headingOne1">
+                      <div class="card-header" role="tab" id="headingOneb">
                           <a data-toggle="collapse" href="#collapseOne1" aria-expanded="true" aria-controls="collapseOne">
                               <h5 class="mb-0">
                                   Description <i class="fa fa-angle-down rotate-icon"></i>
@@ -467,9 +409,9 @@
                       </div>
   
                       <!-- Card body -->
-                      <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
+                      <div id="collapseOneb" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
                           <div class="card-body">
-                              Lumpy skin disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
+                          Bluetongue disease is a non contagious insect-borne, viral disease of ruminants, mainly sheep and less frequently cattle, goats, buffalo, deer, dromedaries, and antelope. It is caused by the Bluetongue virus (BTV). The virus is transmitted by the midge Culicoides imicola, Culicoides variipennis, and other culicoids.
                           </div>
                       </div>
                   </div>
@@ -480,7 +422,7 @@
   
                       <!-- Card header -->
                       <div class="card-header" role="tab" id="headingTwo1">
-                          <a class="collapsed" data-toggle="collapse" href="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo">
+                          <a class="collapsed" data-toggle="collapse" href="#collapseTwof" aria-expanded="false" aria-controls="collapseTwo">
                               <h5 class="mb-0">
                                   Symptoms <i class="fa fa-angle-down rotate-icon"></i>
                               </h5>
@@ -488,11 +430,11 @@
                       </div>
   
                       <!-- Card body -->
-                      <div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" >
+                      <div id="collapseTwof" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" >
                           <div class="card-body">
                               There is hemorrhagic exudate subjacent to the necrotic center (sitfast) of a papule. <br>
                               Multiple subcutaneous nodules elevate the skin. <br>
-                              There are multiple sharply-demarcated slightly raised papules, often with eroded surfaces, that extend into the nares.
+                              There are multiple sharply-demarcated slightly raised papules, often with eroded surfaces, that extend into the nares. Sheep, mouth. There is linear erosion and reddening of the right buccal mucosa.
                           </div>
                       </div>
                   </div>
@@ -502,8 +444,8 @@
                   <div class="card">
   
                       <!-- Card header -->
-                      <div class="card-header" role="tab" id="headingThree1">
-                          <a class="collapsed" data-toggle="collapse" href="#collapseThree1" aria-expanded="false" aria-controls="collapseThree">
+                      <div class="card-header" role="tab" id="headingThree">
+                          <a class="collapsed" data-toggle="collapse" href="#collapseThreef" aria-expanded="false" aria-controls="collapseThree">
                               <h5 class="mb-0">
                                   Medication <i class="fa fa-angle-down rotate-icon"></i>
                               </h5>
@@ -511,26 +453,25 @@
                       </div>
   
                       <!-- Card body -->
-                      <div id="collapseThree1" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                      <div id="collapseThreef" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
                           <div class="card-body">
-                              LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
+                              Swavet® - For the prophylactic immunisation of cattle against Bluetongue. <br>
                               <strong>Recommendation for use:</strong><br>
                               If possible all animals should be vaccinated during spring.
                               Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
-                              Pregnant cows may be vaccinated with Lumpyvax®.
+                              Pregnant cows may be vaccinated with Swavet®.
                               A booster vaccination should be given annually. <br>
-                              For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                              For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
                           </div>
                       </div>
                   </div>
-                  <!-- Accordion card -->
-                  <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                  
               </div>
               <!--/.Accordion wrapper-->
   
               <!-- Add to Cart -->
               <div class="card-body">
-                  <button type="button" class="btn btn-primary">Join the discussion</button>
+                  <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
               </div>
               <!-- /.Add to Cart -->
@@ -643,18 +584,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -676,7 +616,7 @@
                 <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <div class="">
-                        <img class="d-block w-100" src="img/blue.jpg" alt="First slide" style="height: 300px;">
+                        <img class="d-block w-100" src="img/img.jpg" alt="First slide" style="height: 300px;">
                     </div>
                     </div>
                 <!--/.Slides-->
@@ -767,18 +707,17 @@
                             Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
                             Pregnant cows may be vaccinated with Lumpyvax®.
                             A booster vaccination should be given annually. <br>
-                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
                         </div>
                     </div>
                 </div>
-                <!-- Accordion card -->
-                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+                
             </div>
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
             <div class="card-body">
-                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-primary" href="http://localhost/flarum/t/cattle">Join the discussion</button>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
             <!-- /.Add to Cart -->
@@ -884,6 +823,358 @@
 
                     <!-- Card body -->
                     <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                            LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
+                            <strong>Recommendation for use:</strong><br>
+                            If possible all animals should be vaccinated during spring.
+                            Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
+                            Pregnant cows may be vaccinated with Lumpyvax®.
+                            A booster vaccination should be given annually. <br>
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+            </div>
+            <!--/.Accordion wrapper-->
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+            <!-- /.Add to Cart -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="fever" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                   <!--Slides-->
+                <div class="carousel-inner" role="listbox">
+                    <div class="">
+                        <img class="d-block w-100" src="img/img.jpg" alt="First slide" style="height: 300px;">
+                    </div>
+                    </div>
+                <!--/.Slides-->             
+            </div>
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Rift Valley Fever</strong>
+            </h2>
+            
+            <!--Accordion wrapper-->
+            <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a data-toggle="collapse" href="#collapseOne5" aria-expanded="true" aria-controls="collapseOne">
+                            <h5 class="mb-0">
+                                Description <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseOne5" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
+                        <div class="card-body">
+                        Sheep, fetus. Both the pleural and peritoneal cavities contain excessive clear, straw-colored fluid. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingTwo">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseTwo5" aria-expanded="false" aria-controls="collapseTwo">
+                            <h5 class="mb-0">
+                                Symptoms <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseTwo5" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" >
+                        <div class="card-body">
+                            Sheep, fetus, kidney. There is severe perirenal edema. There is hemorrhagic exudate subjacent to the necrotic center (sitfast) of a papule. Sheep, liver. The cut surface of the swollen liver is pale and contains many petechiae.
+                            Multiple subcutaneous nodules elevate the skin. <br>
+                            There are multiple sharply-demarcated slightly raised papules, often with eroded surfaces, that extend into the nares.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingThree">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseThree5" aria-expanded="false" aria-controls="collapseThree">
+                            <h5 class="mb-0">
+                                Medication <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseThree5" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                            LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
+                            <strong>Recommendation for use:</strong><br>
+                            If possible all animals should be vaccinated during spring.
+                            Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
+                            Pregnant cows may be vaccinated with Lumpyvax®.
+                            A booster vaccination should be given annually. <br>
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+            </div>
+            <!--/.Accordion wrapper-->
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+            <!-- /.Add to Cart -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="foot" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                <!--Slides-->
+                <div class="carousel-inner" role="listbox">
+                    <div class="">
+                        <img class="d-block w-100" src="img/images.jpg" alt="First slide" style="height: 300px;">
+                    </div>
+                </div>
+                <!--/.Slides-->
+                <!--Controls-->
+                <a class="carousel-control-prev" href="#carousel-thumb" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousel-thumb" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                <!--/.Controls-->
+                
+            </div>
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Foot and Mouth Disease</strong>
+            </h2>
+            
+            <!--Accordion wrapper-->
+            <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a data-toggle="collapse" href="#collapseOneF" aria-expanded="true" aria-controls="collapseOne">
+                            <h5 class="mb-0">
+                                Description <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseOneF" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
+                        <div class="card-body">
+                            Foot and Mouth Disease was detected at Impalila IsLand in the Caprivi Region on the 11th of April 2010. Impalila island is located close to the Bostwana border some 30 km west of Ngoma border post.Foot-and-mouth disease (FMD) is a severe, highly contagious viral disease. The FMD virus causes illness in cows, pigs, sheep, goats, deer, and other animals with divided hooves. FMD can spread when infected animals bring the virus into physical contact with susceptible animals (i.e., divided hoof animals). 
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingTwo">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseTwoF" aria-expanded="false" aria-controls="collapseTwo">
+                            <h5 class="mb-0">
+                                Symptoms <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseTwoF" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" >
+                        <div class="card-body">
+                        Animals with FMD typically have a fever and blisters on the tongue and lips, in and around the mouth, on the mammary glands, and around the hooves. These blisters, called vesicles, pop and turn into red areas called erosions. Pain and discomfort from the vesicles and erosions lead to other symptoms such as depression, anorexia, excessive salivation, lameness, and reluctance to move or stand. Most affected animals will not die from FMD, but the disease leaves them weakened and unable to produce meat and milk the way they did before.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingThree">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseThreef" aria-expanded="false" aria-controls="collapseThree">
+                            <h5 class="mb-0">
+                                Medication <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseThreef" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                        SUPAVAX® can be used for the active immunisation of cattle and sheep against anthrax, botulism and blackleg or FMD. The active component, when injected into a healthy, susceptible animal stimulates the immune response against these diseases. Immunity is established within 3 to 4 weeks after inoculation, and lasts for at least 1 year. <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle">discussion forum.</a>                          
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <!--/.Accordion wrapper-->
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+            <!-- /.Add to Cart -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="catarrh" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                <!--Slides-->
+                <div class="carousel-inner" role="listbox">
+                    <div class="">
+                        <img class="d-block w-100" src="img/blue.jpg" alt="First slide" style="height: 300px;">
+                    </div>
+                </div>
+                <!--/.Slides-->
+                <!--Controls-->
+                <a class="carousel-control-prev" href="#carousel-thumb" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousel-thumb" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                <!--/.Controls-->
+                
+            </div>
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Lumpy skin disease</strong>
+            </h2>
+            
+            <!--Accordion wrapper-->
+            <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a data-toggle="collapse" href="#collapseOne5" aria-expanded="true" aria-controls="collapseOne">
+                            <h5 class="mb-0">
+                                Description <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseOne5" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
+                        <div class="card-body">
+                            Lumpy skin disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingTwo">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseTwo5" aria-expanded="false" aria-controls="collapseTwo">
+                            <h5 class="mb-0">
+                                Symptoms <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseTwo5" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" >
+                        <div class="card-body">
+                            There is hemorrhagic exudate subjacent to the necrotic center (sitfast) of a papule. <br>
+                            Multiple subcutaneous nodules elevate the skin. <br>
+                            There are multiple sharply-demarcated slightly raised papules, often with eroded surfaces, that extend into the nares.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingThree">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseThree5" aria-expanded="false" aria-controls="collapseThree">
+                            <h5 class="mb-0">
+                                Medication <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseThree5" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
                         <div class="card-body">
                             LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
                             <strong>Recommendation for use:</strong><br>
@@ -1036,6 +1327,131 @@
     </div>
   </div>
 </div>
+
+<div class="modal fade" id="catarrh" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                <!--Slides-->
+                <div class="carousel-inner" role="listbox">
+                    <div class="">
+                        <img class="d-block w-100" src="img/blue.jpg" alt="First slide" style="height: 300px;">
+                    </div>
+                </div>
+                <!--/.Slides-->
+                <!--Controls-->
+                <a class="carousel-control-prev" href="#carousel-thumb" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousel-thumb" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                <!--/.Controls-->
+                
+            </div>
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Lumpy skin disease</strong>
+            </h2>
+            
+            <!--Accordion wrapper-->
+            <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a data-toggle="collapse" href="#collapseOne5" aria-expanded="true" aria-controls="collapseOne">
+                            <h5 class="mb-0">
+                                Description <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseOne5" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" >
+                        <div class="card-body">
+                            Lumpy skin disease is poxviral disease primarily of cattle that is spread by biting insects. <br> There was a sharp drop in the occurrence of Lumpy-skin Disease in 2010 as compared to the previous years. This decline can be attributed by DVS in which vaccine was availed to farmers in the previously heavily affected cluster in the regions of Kunene, Omasuti, Oshana and Oshikoto.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingTwo">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseTwo5" aria-expanded="false" aria-controls="collapseTwo">
+                            <h5 class="mb-0">
+                                Symptoms <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseTwo5" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" >
+                        <div class="card-body">
+                            There is hemorrhagic exudate subjacent to the necrotic center (sitfast) of a papule. <br>
+                            Multiple subcutaneous nodules elevate the skin. <br>
+                            There are multiple sharply-demarcated slightly raised papules, often with eroded surfaces, that extend into the nares.
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+
+                <!-- Accordion card -->
+                <div class="card">
+
+                    <!-- Card header -->
+                    <div class="card-header" role="tab" id="headingThree">
+                        <a class="collapsed" data-toggle="collapse" href="#collapseThree5" aria-expanded="false" aria-controls="collapseThree">
+                            <h5 class="mb-0">
+                                Medication <i class="fa fa-angle-down rotate-icon"></i>
+                            </h5>
+                        </a>
+                    </div>
+
+                    <!-- Card body -->
+                    <div id="collapseThree5" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                            LUMPYVAX® - For the prophylactic immunisation of cattle against lumpy skin disease. <br>
+                            <strong>Recommendation for use:</strong><br>
+                            If possible all animals should be vaccinated during spring.
+                            Calves from vaccinated cows should be vaccinated at 6 months of age. Calves from unvaccinated cows may be vaccinated at any age.
+                            Pregnant cows may be vaccinated with Lumpyvax®.
+                            A booster vaccination should be given annually. <br>
+                            For suggestions, questions and comments please join the <a style="text-decoration:underline; color:blue" href="http://localhost/flarum/t/cattle" target="_blank">discussion forum.</a>                          
+                        </div>
+                    </div>
+                </div>
+                <!-- Accordion card -->
+                <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+            </div>
+            <!--/.Accordion wrapper-->
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+                <button type="button" class="btn btn-primary">Join the discussion</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+            <!-- /.Add to Cart -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
   <!--==========================
     Footer
   ============================-->
